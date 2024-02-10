@@ -1,0 +1,48 @@
+body{
+  padding: 0;
+  margin: 0;
+    font-family: sans-serif;
+}
+
+.header-pic {
+    width: 80%;
+    height: 80%;
+   
+    margin-top: 70px;
+ 
+}
+.header-content {
+position: relative;
+text-align: center;
+
+}
+.header-text  {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(-120%,-50%);
+    text-align: center;
+    width: 27%;
+    color: #fff;
+    font-size: 50px;
+}
+.SecndDiv {
+text-align: center;
+}
+.SecndDiv-context {
+    font-size: 40px;
+}
+.secText {
+    color: red;
+}
+.ThirdDiv {
+    margin-top: 95px;
+    text-align: center;
+    background-size: cover;
+}
+.thirdPic{
+    padding: 200px;
+    
+   
+   
+}
