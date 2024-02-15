@@ -3,18 +3,14 @@ body{
   margin: 0;
     font-family: sans-serif;
 }
-
 .header-pic {
     width: 80%;
     height: 80%;
-   
     margin-top: 70px;
- 
 }
 .header-content {
 position: relative;
 text-align: center;
-
 }
 .header-text  {
     position: absolute;
@@ -44,8 +40,38 @@ text-align: center;
     position: relative;
 }
 .thirdPic{
-
+    width: 80%;
 }
 .thirdContent{
-
+ position: absolute;
+ transform: translate(10%,-115%);
+ color: white;
+ font-size: 40px;
+}
+.thirdContent-header{
+    letter-spacing: 8px;
+    width: 35%;
+    text-align: left;
+    margin-left: 5%;
+}
+.thirdContent-body{
+    width: 60%;
+    text-align: left;
+    margin-left: 5%;
+}
+.join{
+    text-align: left;
+    margin-left: 5%;
+    font-weight: bold;
+}
+.forthDiv{
+    text-align: center;
+    margin-left: 240px;
+    margin-right: 230px;
+    border-radius: 5px;
+}
+.forthDiv-Content{
+    padding: 10px;
+    background-color: #FFF0F0;
+    border-radius: 20px;
 }
