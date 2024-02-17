@@ -88,7 +88,7 @@ text-align: center;
     margin-right: 10%;
     font-size: 30px;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 195px;
 }
 .fifth-header{
     color: red;
@@ -106,9 +106,39 @@ padding: auto;
     border-color: red;
     border-radius: 250px;
     padding: 25px;
-    border-width: 15px;
-    
+    border-width: 20px;
 }
 .fifth-three {
-width: 30%;
+width: 25%;
+}
+.fifth-tag {
+    font-size: 50px;
+}
+.sixthDiv{
+    margin-top: 20px;
+}
+.sixthDiv-first {
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;   
+}
+.sixthDiv-Sec{
+    text-align: center;
+    font-size: 90px;
+}
+.Holidays{
+    color: red;
+}
+.sixthDiv-p{
+    font-size: 25px;
+    width: 52%;
+    text-align: center;
+    margin-left: 26%;
+}
+.six-pic{
+  position: relative;
+}
+.siximge-first{
+    position: absolute;
+    margin-left: 77%;
 }
