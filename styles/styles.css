@@ -71,8 +71,9 @@ text-align: center;
     border-radius: 5px;
 }
 .forthDiv-Content{
-    margin-top: 20px;
-    padding-top: 140px;
+    margin-top: 30px;
+    padding-top: 120px;
+    padding-bottom: 120px;
     background-color: #FFF0F0;
     border-radius: 20px;
     font-size: 40px;
@@ -80,4 +81,34 @@ text-align: center;
 .forthDiv_button{
     padding: 20px 30px;
     font-size: 30px;
+}
+.fifthDiv{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 15px;
+}
+.fifth-header{
+    color: red;
+}
+.fifth-one {
+ width: 30%;
+}
+.fifth-two {
+width: 40%;
+padding: auto;
+}
+.fifth-two>img {
+    border-style: solid;
+    width: 40%;
+    border-color: red;
+    border-radius: 250px;
+    padding: 25px;
+    border-width: 15px;
+    
+}
+.fifth-three {
+width: 30%;
 }
