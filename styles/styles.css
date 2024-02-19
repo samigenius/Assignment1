@@ -1,4 +1,4 @@
-body{
+body,h1, p{
   padding: 0;
   margin: 0;
     font-family: sans-serif;
@@ -105,10 +105,10 @@ padding: auto;
 }
 .fifth-two>img {
     border-style: solid;
-    width: 40%;
+    width: 71%;
     border-color: red;
     border-radius: 250px;
-    padding: 25px;
+    padding: 17px;
     border-width: 20px;
 }
 .fifth-three {
@@ -119,42 +119,48 @@ width: 25%;
 }
 .sixthDiv{
     margin-top: 20px;
+  
 }
 .sixthDiv-first {
+    margin-top: 110px;
     text-align: center;
-    font-size: 30px;
+    font-size: 27px;
     text-transform: uppercase;   
 }
 .sixthDiv-Sec{
     text-align: center;
-    font-size: 90px;
+    font-size: 77px;
 }
 .Holidays{
     color: red;
 }
 .sixthDiv-p{
     font-size: 25px;
-    width: 42%;
+    width: 56%;
     text-align: center;
-    margin-left: 30%;
+    margin-left: 23%;
+    margin-top: 40px;
 }
-.six-pic{
-  position: relative;
-}
+
 .siximge-first{
     position: absolute;
     /* padding: 25px; */
-    margin-left: 75%;
+    margin-left: 59%;
+    width: 400px;
+    height: 380px;
 }
 .siximg-Sec{
-    position: absolute;
-    margin-top: 14%;
-    margin-left: 943px;
-    width: 1762px;
-    height: 250px;
+    /* position: absolute; */
+    margin-top: 25%;
+    margin-left: 173px;
+    width: 1122px;
+    height: 165px;
 }
 .siximge-Thired{
-    position: absolute;
-    margin-left: 31%;
+    /* position: absolute; */
+    margin-left: 14%;
+    margin-top: 8%;
+    width: 610px;
+    height: 410px;
 }
 
